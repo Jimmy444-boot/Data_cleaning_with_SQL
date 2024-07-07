@@ -118,7 +118,8 @@ Step 4: I created an EVENT that runs the data cleaning based on my time of choic
       DO CALL copy_and_clean_data();
 
 
-By following these steps, I was not only able to clean my data by also build an automated data cleaning at thw end of every day.
+By following these steps, I not only cleaned my data but also developed an automated data cleaning process that cleans my table at the end of every day. This has made my life easier and my job faster.
+
 
       
          
